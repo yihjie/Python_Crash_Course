@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="ROOT_SYNC" value="SYNC" />
-    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
-    <option name="FORCE_PUSH_ALLOWED" value="true" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5.2+ (/usr/bin/python3.5)" project-jdk-type="Python SDK" />
   <component name="masterDetails">
     <states>
