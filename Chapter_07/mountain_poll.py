@@ -22,3 +22,4 @@ while polling_active :
 print("\n---- Poll Results ----")
 for name, response in responses.items():
     print(name.title() + " would like to climb " + response.title() + ".")
+
