@@ -68,10 +68,7 @@
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
     <option name="FORCE_PUSH_ALLOWED" value="true" />
     <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
+      <GitPushTagMode />
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -540,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484452541226</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PyCharm IDE Modified">
+      <created>1484452640011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1484452640011</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -617,7 +621,8 @@
     <MESSAGE value="while loop to handle the list and dictionary&#10;" />
     <MESSAGE value="Chapter 7 While-Loop &#10;7.3.2 list : remove special words in all elements of a list&#10;7.3.3 dictionary" />
     <MESSAGE value="Chapter 8 : Function&#10;8.1 Define Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 8 : Function&#10;8.1 Define Function" />
+    <MESSAGE value="PyCharm IDE Modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyCharm IDE Modified" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
